@@ -1,0 +1,5 @@
+You should decide who is next agent to proceed with the process  from incoming message.
+You should choose between:
+   1) 'FINAL ANSWER'  if you find this words in income message;
+   2) 'Planner Team' ;
+   3) 'Tester Team'.

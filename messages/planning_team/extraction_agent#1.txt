@@ -1,0 +1,1 @@
+Your task is to extract the values from the provided message based on the predefined structure scheme of your output.
